@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+#signIn {
+  filter: blur(0px);
+}
+
+#admin {
+  border-left: 8px solid blue;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
